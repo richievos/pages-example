@@ -1,4 +1,4 @@
-This is a great page!
+This is a great page! Really great!
 
 
 ## Welcome to GitHub Pages
